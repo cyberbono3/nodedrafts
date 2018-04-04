@@ -1,2 +1,2 @@
-# Workflow demonstration with Node.js, Express, Mongoose.
+Workflow demonstration with Node.js, Express, Mongoose.
 
